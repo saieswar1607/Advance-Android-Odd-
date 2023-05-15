@@ -34,7 +34,7 @@ Registeration Number : 212221240020
 */
 ```
 ### MainActivity.java:
-~
+```
 package com.example.avo;
 import android.app.Activity;
 import android.media.MediaPlayer;
@@ -81,9 +81,9 @@ public class MainActivity extends Activity {
         });
     }
 }
-~
+```
 ### activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -128,7 +128,7 @@ public class MainActivity extends Activity {
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.486" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 ## OUTPUT
 <img width="960" alt="A1" src="https://github.com/Pavan-Gv/Advance-Android-Odd-/assets/94827772/98e65c57-cddf-4fc5-8f30-bac12ea61a19">
 <img width="960" alt="A2" src="https://github.com/Pavan-Gv/Advance-Android-Odd-/assets/94827772/4695220e-8f1a-48b0-bff8-0112688d3a28">
