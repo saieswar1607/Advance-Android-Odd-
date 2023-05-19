@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the avaliable sensor in android mobile devices”.
-Developed by: Sai Eswat Kandukuri
+Developed by: Sai Eswar Kandukuri
 Registeration Number : 212221240020
 */
 ```
