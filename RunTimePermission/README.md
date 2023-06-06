@@ -214,7 +214,7 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 <img width="1440" alt="ex6" src="https://github.com/saieswar1607/Advance-Android-Odd-/assets/93427011/8ebf64cf-372a-491d-ae75-5e183fb3a04c">
-![ex6 1](https://github.com/saieswar1607/Advance-Android-Odd-/assets/93427011/7416fdc6-4f0d-4f2e-a2e0-be1cb7f629fd)
+<img width="320" alt="ex6 1" src="https://github.com/saieswar1607/Advance-Android-Odd-/assets/93427011/58aff84a-2dd2-44c0-afe7-e4b1a057aed3">
 <img width="1440" alt="ex6 2" src="https://github.com/saieswar1607/Advance-Android-Odd-/assets/93427011/6f9e06ab-7b96-413a-9a29-985e58516057">
 <img width="1440" alt="ex6 3" src="https://github.com/saieswar1607/Advance-Android-Odd-/assets/93427011/c77e4772-84db-4cf7-ad21-b07827537f5a">
 <img width="1440" alt="ex6 4" src="https://github.com/saieswar1607/Advance-Android-Odd-/assets/93427011/cee59942-5498-4d8b-94d1-7e08598c1e4b">
